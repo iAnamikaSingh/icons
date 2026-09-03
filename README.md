@@ -21,8 +21,8 @@ The repository contains icons for commonly used technologies across areas such a
 * **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 * **Backend:** Node.js, Express
 * **Database:** MongoDB
-* **Languages:** JavaScript, TypeScript, Java, C
-* **Tools:** Git
+* **Languages:** JavaScript, TypeScript, Java, 
+* **Tools:** Git, GitHub, VS Code
 
 
 ## 🎯 Why This Repository?
